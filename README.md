@@ -1,4 +1,4 @@
-# PugBot
+# OW PugBot
 PugBot is a Discord bot used to facilitate and organize pickup games.
 
 ## Features
@@ -31,4 +31,5 @@ PugBot is a Discord bot used to facilitate and organize pickup games.
 - [SQLite JDBC driver](https://github.com/xerial/sqlite-jdbc)
 
 ## Acknowledgements
+Implosions/PugBot
 PugBot is based on the IRC pug bot [Xenia](https://github.com/xzanth/pugbot) by [Xzanth](https://github.com/xzanth)
